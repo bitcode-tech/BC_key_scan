@@ -10,7 +10,7 @@ An Arduino shield made with BC7591 chip
 
 A 56-key(7*8) keyboard circuit made with BC6561
 
-## About BC759x chips
+## About BC6xxx & BC759x chips
 
 BC6xxx and BC759x chips both provides matrix keyboard interface. They use UART for communication. BC6xxx are dedicated keyboard interface range from 30 keys to 88 keys, while the BC759x can provide from 48 keys to 96 keys keyboard. They use a compatible UART protocol for the keyboard output, which is a 1-wire interface.
 
